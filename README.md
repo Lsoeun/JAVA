@@ -23,15 +23,15 @@ JAVA 기초
 <img src="https://github.com/user-attachments/assets/91bbb564-2a17-4eda-8266-70badc8021e4" width="400" height="400"/>
 
 #### 새 시스템 변수 추가
-<img src="https://github.com/user-attachments/assets/88a68853-8147-4a9e-9970-2cf289341b11" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/88a68853-8147-4a9e-9970-2cf289341b11" width="600" height="200"/>
 
 #### Path 시스템 변수 편집
-<img src="https://github.com/user-attachments/assets/ea0fc4f9-f632-42cb-a970-57a1bf288aa6" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/a8ac4db6-0a9b-40ec-b938-283d06ba4e7b" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/c1b492df-6068-47b2-a990-be390e3bcdd4" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/ea0fc4f9-f632-42cb-a970-57a1bf288aa6" width="400" height="350"/>
+<img src="https://github.com/user-attachments/assets/a8ac4db6-0a9b-40ec-b938-283d06ba4e7b" width="400" height="350"/>
+<img src="https://github.com/user-attachments/assets/c1b492df-6068-47b2-a990-be390e3bcdd4" width="400" height="350"/>
 
 #### 자바 설정 확인
-<img src="https://github.com/user-attachments/assets/bbf1861b-93a0-41ed-8ce7-42702d534c41" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/bbf1861b-93a0-41ed-8ce7-42702d534c41" width="600" height="200"/>
 
 
 
