@@ -40,10 +40,16 @@ JAVA 기초
 <img src="https://github.com/user-attachments/assets/e8406857-53a3-4f62-8c8e-47af49e03a4a" width="400" height="300"/>
 <img src="https://github.com/user-attachments/assets/0509e704-6e49-40bd-9266-d567aa4082b5" width="400" height="300"/>
 <br>
-- Create Desktop Shortcut : 바로가기 생성 여부
-- Update PATH variable(restart needed) : 윈도우 환경변수 자동으로 추가
-- Update Context menu : 프로젝트로 폴더 열기
-- Create Association : 자바 사용 ( 사용할 환경 선택 )
+- Create Desktop Shortcut : 바로가기 생성 여부<br>
+- Update PATH variable(restart needed) : 윈도우 환경변수 자동으로 추가<br>
+- Update Context menu : 프로젝트로 폴더 열기<br>
+- Create Association : 자바 사용 ( 사용할 환경 선택 )<br>
+<img src="https://github.com/user-attachments/assets/41e2d6ed-139a-40c9-a4c1-cc637d4175ab" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/a3dc59d8-01ff-4464-af9c-66e8728b403c" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/55fbaf0c-b677-4ce2-b9fa-8c4a4e4ab27f" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/91bd65f0-f50d-4d6d-9be1-fccda6d47500" width="400" height="300"/>
+
+
 
 
 
