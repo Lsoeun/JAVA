@@ -31,7 +31,7 @@ JAVA 기초
 <img src="https://github.com/user-attachments/assets/c1b492df-6068-47b2-a990-be390e3bcdd4" width="400" height="350"/>
 
 #### 자바 설정 확인
-<img src="https://github.com/user-attachments/assets/bbf1861b-93a0-41ed-8ce7-42702d534c41" width="600" height="200"/>
+<img src="https://github.com/user-attachments/assets/bbf1861b-93a0-41ed-8ce7-42702d534c41" width="600" height="300"/>
 
 
 
