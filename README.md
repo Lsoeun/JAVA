@@ -14,7 +14,7 @@ JAVA 기초
 #### 자바 다운로드 후 설치하기
 - 자바 기본 설치 경로는 C:/Program Files/Java/jdk-17입니다.
 - 경로 변경 시 [Change...] 버튼을 눌러 원하는 경로로 설치 가능합니다.
-![image](https://github.com/user-attachments/assets/eaf7e9b4-f762-410e-a754-f0f995d8d196)
+<img src="https://github.com/user-attachments/assets/eaf7e9b4-f762-410e-a754-f0f995d8d196" width="600" height="600"/>
 
 #### 환경변수 설정하기
 - JAVA_HOME은 JDK가 설치된 경로입니다.  설치 경로를 시스템 변수에 설정을 하면 현재 사용자뿐 아니라 다른 사용자 계정으로도 해당 변수를 사용할 수 있습니다. 또한, 다른 프로그램에서 JAVA_HOME 환경 변수를 이용해 JDK의 위치를 찾기도 합니다.
