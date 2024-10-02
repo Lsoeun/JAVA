@@ -33,7 +33,16 @@ JAVA 기초
 #### 자바 설정 확인
 <img src="https://github.com/user-attachments/assets/bbf1861b-93a0-41ed-8ce7-42702d534c41" width="600" height="300"/>
 
-
+### 인텔리제이 설치하기
+- [인텔리제이 다운로드](https://www.jetbrains.com/ko-kr/idea/download/#section=windows) (Community 버전 다운로드)
+<img src="https://github.com/user-attachments/assets/7fdac936-aaf1-4ddf-92ba-f5df087e5e5e" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/248c7f2b-3f7d-4851-995f-4d918f07c9c9" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/e8406857-53a3-4f62-8c8e-47af49e03a4a" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/0509e704-6e49-40bd-9266-d567aa4082b5" width="400" height="300"/>
+- Create Desktop Shortcut : 바로가기 생성 여부
+- Update PATH variable(restart needed) : 윈도우 환경변수 자동으로 추가
+- Update Context menu : 프로젝트로 폴더 열기
+- Create Association : 자바 사용 ( 사용할 환경 선택 )
 
 
 
