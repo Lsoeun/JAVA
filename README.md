@@ -18,7 +18,7 @@ JAVA 기초
 
 #### 환경변수 설정하기
 - JAVA_HOME은 JDK가 설치된 경로입니다.  설치 경로를 시스템 변수에 설정을 하면 현재 사용자뿐 아니라 다른 사용자 계정으로도 해당 변수를 사용할 수 있습니다. 또한, 다른 프로그램에서 JAVA_HOME 환경 변수를 이용해 JDK의 위치를 찾기도 합니다.
-![image](https://github.com/user-attachments/assets/5db66e6d-cd42-4fab-82cc-3db510a2d246)
+<img src="https://github.com/user-attachments/assets/5db66e6d-cd42-4fab-82cc-3db510a2d246" width="200" height="200"/>
 ![image](https://github.com/user-attachments/assets/897bc5c4-b614-4da5-9e79-f8d044cdb47f)
 ![image](https://github.com/user-attachments/assets/91bbb564-2a17-4eda-8266-70badc8021e4)
 
