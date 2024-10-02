@@ -39,6 +39,7 @@ JAVA 기초
 <img src="https://github.com/user-attachments/assets/248c7f2b-3f7d-4851-995f-4d918f07c9c9" width="400" height="300"/>
 <img src="https://github.com/user-attachments/assets/e8406857-53a3-4f62-8c8e-47af49e03a4a" width="400" height="300"/>
 <img src="https://github.com/user-attachments/assets/0509e704-6e49-40bd-9266-d567aa4082b5" width="400" height="300"/>
+<br>
 - Create Desktop Shortcut : 바로가기 생성 여부
 - Update PATH variable(restart needed) : 윈도우 환경변수 자동으로 추가
 - Update Context menu : 프로젝트로 폴더 열기
