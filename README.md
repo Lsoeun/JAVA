@@ -20,18 +20,18 @@ JAVA 기초
 - JAVA_HOME은 JDK가 설치된 경로입니다.  설치 경로를 시스템 변수에 설정을 하면 현재 사용자뿐 아니라 다른 사용자 계정으로도 해당 변수를 사용할 수 있습니다. 또한, 다른 프로그램에서 JAVA_HOME 환경 변수를 이용해 JDK의 위치를 찾기도 합니다.
 <img src="https://github.com/user-attachments/assets/5db66e6d-cd42-4fab-82cc-3db510a2d246" width="400" height="300"/>
 <img src="https://github.com/user-attachments/assets/897bc5c4-b614-4da5-9e79-f8d044cdb47f" width="400" height="300"/>
-<img src="https://github.com/user-attachments/assets/91bbb564-2a17-4eda-8266-70badc8021e4" width="400" height="350"/>
+<img src="https://github.com/user-attachments/assets/91bbb564-2a17-4eda-8266-70badc8021e4" width="400" height="400"/>
 
 #### 새 시스템 변수 추가
-![image](https://github.com/user-attachments/assets/88a68853-8147-4a9e-9970-2cf289341b11)
+<img src="https://github.com/user-attachments/assets/88a68853-8147-4a9e-9970-2cf289341b11" width="400" height="300"/>
 
 #### Path 시스템 변수 편집
-![image](https://github.com/user-attachments/assets/ea0fc4f9-f632-42cb-a970-57a1bf288aa6)
-![image](https://github.com/user-attachments/assets/a8ac4db6-0a9b-40ec-b938-283d06ba4e7b)
-![image](https://github.com/user-attachments/assets/c1b492df-6068-47b2-a990-be390e3bcdd4)
+<img src="https://github.com/user-attachments/assets/ea0fc4f9-f632-42cb-a970-57a1bf288aa6" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/a8ac4db6-0a9b-40ec-b938-283d06ba4e7b" width="400" height="300"/>
+<img src="https://github.com/user-attachments/assets/c1b492df-6068-47b2-a990-be390e3bcdd4" width="400" height="300"/>
 
 #### 자바 설정 확인
-![image](https://github.com/user-attachments/assets/bbf1861b-93a0-41ed-8ce7-42702d534c41)
+<img src="https://github.com/user-attachments/assets/bbf1861b-93a0-41ed-8ce7-42702d534c41" width="400" height="300"/>
 
 
 
